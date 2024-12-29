@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabin
 - 👀 I’m interested in Frontend web development and UI design
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Typescript
 
 <!---
 nabsk911/nabsk911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
