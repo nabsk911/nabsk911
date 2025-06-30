@@ -14,14 +14,30 @@ I'm a frontend developer focused on building web experiences that are smooth and
 
 ## Technical Skills
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,c,linux&theme=dark)](https://skillicons.dev)
+
+## GitHub Activities
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+
+**GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=nabsk911&show_icons=true&theme=onedark" alt="GitHub Stats" width="100%" />
+
+**GitHub Streak**
+
+<img src="https://streak-stats.demolab.com?user=nabsk911&theme=onedark" alt="GitHub Streak" width="100%" />
+
+</td>
+<td align="center" valign="top" width="50%">
+
+**Top Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabsk911&layout=compact&theme=onedark" alt="Top Languages" width="100%" />
+
+</td>
+</tr>
+</table>
 
