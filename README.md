@@ -1,6 +1,6 @@
 # Hey! I'm Nabin Khanal.
 
-<img src="https://wallpapercave.com/wp/wp12808376.png" alt="cover image" style="width: 100%; height: auto;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZieDIwbHo4ZnBiMGNxY2dzZ2RjMW82azF4ZjJ2OXN2bmxrZ2JmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AYQQJsqDrDHy/giphy.gif" alt="cover image" style="width: 100%; height: auto;" />
 
 ## About Me
 
@@ -13,4 +13,4 @@ I'm a frontend developer focused on building smooth and engaging web experiences
 
 ## Tech Stack
 
-[![My tech stack](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,postgres,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,docker&theme=dark)](https://skillicons.dev)
