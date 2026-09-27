@@ -4,7 +4,8 @@
 
 ## About Me
 
-I'm a backend developer exploring system design, databases, and networking. I enjoy building small projects and learning how scalable systems work.
+I'm a backend developer exploring system design, distributed systems, and networking. I enjoy building small projects and learning how things work under the hood.
+
 
 ## Languages & Tools
 
